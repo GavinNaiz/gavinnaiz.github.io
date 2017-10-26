@@ -59,6 +59,10 @@ section p {
   font size: 2em;
 }
 
+a { 
+  color: inherit; 
+}
+
 .col-md-6 {
   margin: 0 0 30px;
 }
