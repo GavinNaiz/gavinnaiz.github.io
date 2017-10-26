@@ -61,12 +61,12 @@ section .row img {
   width: 100%;
 }
 
-section .p {
-  font size: 2em;
+section p {
+  font-size: 2em;
 }
 
 p {
-  font size: 2em;
+  font-size: 2em;
 }
 
 a { 
