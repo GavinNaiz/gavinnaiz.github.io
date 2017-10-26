@@ -55,6 +55,10 @@ section .row img {
   width: 100%;
 }
 
+section p {
+  font size: +2;
+}
+
 .col-md-6 {
   margin: 0 0 30px;
 }
