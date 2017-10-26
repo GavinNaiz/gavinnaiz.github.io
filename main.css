@@ -21,7 +21,7 @@ header h1 {
 
 header nav {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-end;
 }
 
 header p {
