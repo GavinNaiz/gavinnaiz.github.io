@@ -41,6 +41,13 @@ header p {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
 section .row img {
   margin: 0 0 30px;
   width: 100%;
