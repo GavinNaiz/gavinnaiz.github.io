@@ -106,7 +106,7 @@ a:hover {
 footer {
   position: absolute;
   right: 0;
-  bottom: -1000px;
+  bottom: -100px;
   left: 0;
   font-size: 12px;
   padding: 20px 0;
