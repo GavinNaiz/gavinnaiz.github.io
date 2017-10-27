@@ -108,13 +108,7 @@ footer {
 }
 
 footer .col-sm-8 {
-  position: absolute;
-  bottom: 0;
   display: flex;
   justify-content: flex-end;
 }
 
-footer li img {
-  width: 32px;
-  height: 32px;
-}
