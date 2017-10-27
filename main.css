@@ -31,6 +31,15 @@ header p {
   margin: 0;
 }
 
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
 
 section .row img {
   margin: 0 0 30px;
