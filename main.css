@@ -40,6 +40,10 @@ section .row img {
   margin: 0 0 30px;
 }
 
+.col-sm-12 {
+  padding: 50px;
+}
+
 footer {
   font-size: 12px;
   padding: 50px 0;
