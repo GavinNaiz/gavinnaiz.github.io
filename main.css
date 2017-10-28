@@ -5,6 +5,7 @@ body {
 }
 
 header {
+  font-family: 'Helvetica', sans-serif;
   padding: 20px 0;
 }
 
@@ -15,7 +16,6 @@ footer .row {
 }
 
 header h1 {
-  font-family: 'Helvetica', sans-serfif;
   font-weight: 700;
   margin: 0;
 }
