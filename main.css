@@ -31,6 +31,10 @@ header p {
   margin: 0;
 }
 
+header a {
+  color: black;
+}
+
 section .row img {
   margin: 0 0 30px;
   width: 100%;
