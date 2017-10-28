@@ -21,6 +21,7 @@ header h1 {
 }
 
 header nav {
+  font-family: 'Helvetica', sans-serif;
   display: flex;
   justify-content: flex-end;
 }
@@ -38,8 +39,6 @@ section .row img {
 .col-md-6 {
   margin: 0 0 30px;
 }
-
-
 
 footer {
   font-size: 12px;
