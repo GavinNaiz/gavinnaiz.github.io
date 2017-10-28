@@ -4,6 +4,10 @@ body {
   font-weight: 300;
 }
 
+container {
+ padding: 20px 0; 
+}
+
 header {
   font-family: 'Helvetica', sans-serif;
   padding: 20px 0;
@@ -59,14 +63,6 @@ section .row img {
 
 .col-md-6 {
   margin: 0 0 30px;
-}
-
-col-sm-3 {
-  padding: 50px;
-}
-
-col-sm-9 {
-  padding: 50px;
 }
 
 .col-sm-12 {
