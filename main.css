@@ -35,6 +35,10 @@ header a {
   color: black;
 }
 
+section a {
+ color: #660099; 
+}
+
 section .row img {
   margin: 0 0 30px;
   width: 100%;
