@@ -32,7 +32,11 @@ header p {
 }
 
 header a {
-  color: black;
+  color: 'black';
+}
+
+section h3 {
+ font-family: 'Helvetica', sans-serif
 }
 
 section a {
