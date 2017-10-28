@@ -40,6 +40,10 @@ section h1 {
  text-align: center;
 }
 
+section h2 {
+  font-family: 'Helvetica', sans-serif;
+}
+
 section h3 {
   font-family: 'Helvetica', sans-serif;
 }
