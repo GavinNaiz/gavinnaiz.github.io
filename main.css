@@ -63,7 +63,7 @@ section .row img {
 
 footer {
   font-size: 12px;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 
 footer .col-sm-8 {
@@ -73,9 +73,4 @@ footer .col-sm-8 {
 
 footer ul {
   list-style: none;
-}
-
-footer li img {
-  width: 32px;
-  height: 32px;
 }
