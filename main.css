@@ -84,6 +84,7 @@ section .row img {
 
 footer {
   font-size: 0.6em;
+  font-weight: 500;
   padding: 20px 0;
 }
 
