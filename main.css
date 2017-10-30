@@ -52,8 +52,16 @@ section h3 {
   font-family: 'Helvetica', sans-serif;
 }
 
-section a {
- color: #660099; 
+section a:link {
+ color: black; 
+}
+
+sectiona:visited {
+    color: grey;
+}
+
+section a:hover {
+    color: #660099;
 }
 
 section .row img {
