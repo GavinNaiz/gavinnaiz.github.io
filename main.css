@@ -75,6 +75,7 @@ footer {
 }
 
 footer .col-sm-8 {
+  font-size: 1em;
   display: flex;
   justify-content: flex-end;
 }
