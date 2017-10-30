@@ -80,6 +80,9 @@ footer .col-sm-8 {
 }
 
 footer ul {
-  font-size: 1em;
   list-style: none;
+}
+
+ul p {
+  font-size: 1em;
 }
