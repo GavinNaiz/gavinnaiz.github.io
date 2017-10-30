@@ -54,6 +54,7 @@ section h3 {
 
 section a:link {
  color: black; 
+ font-weight: 400;
 }
 
 sectiona: visited {
