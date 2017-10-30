@@ -56,7 +56,7 @@ section a:link {
  color: black; 
 }
 
-sectiona:visited {
+sectiona: visited {
     color: grey;
 }
 
