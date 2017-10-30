@@ -39,6 +39,10 @@ header a {
   color: black;
 } 
 
+section {
+ padding: 50px; 
+}
+
 section h1 {
  font-family: 'Helvetica', sans-serif;
  text-align: center;
