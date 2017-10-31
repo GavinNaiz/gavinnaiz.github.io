@@ -10,8 +10,6 @@ container {
 }
 
 header {
-  top: 20px;
-  position: fixed;
   font-family: 'Helvetica', sans-serif;
   padding: 70px 0;
   background-color: white;
