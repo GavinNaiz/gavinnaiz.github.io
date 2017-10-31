@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  position: fixed;
+  position: absolute;
   font-family: 'Helvetica', sans-serif;
   padding: 70px 0;
 }
