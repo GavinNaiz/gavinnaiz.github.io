@@ -12,7 +12,7 @@ body {
 header {
   font-family: 'Helvetica', sans-serif;
   padding: 70px 0;
-  background-color: white;
+  background-color: blue;
 }
 
 header .row {
