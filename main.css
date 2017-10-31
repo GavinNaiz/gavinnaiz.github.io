@@ -22,6 +22,7 @@ header .row {
 .navbar-default {
     background-color: white;
     border-color: white;
+    width: inherit;
 }
 
 .navbar-fixed-top {
