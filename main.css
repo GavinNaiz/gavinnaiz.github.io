@@ -19,6 +19,11 @@ header .row {
   align-items: center;
 }
 
+.navbar{
+    width: 80%;
+    margin: 0 auto;
+}
+
 .navbar-default {
     background-color: white;
     border-color: white;
@@ -28,8 +33,6 @@ header .row {
     top: 0;
     border-width: 0 0 1px;
     padding: 70px 0;
-    width: 80%;
-    margin: 0 auto;
 }
 
 .main {
