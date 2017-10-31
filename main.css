@@ -19,6 +19,11 @@ header .row {
   align-items: center;
 }
 
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+}
+
 .main {
   margin-top: 50px;
 }
