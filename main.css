@@ -58,11 +58,11 @@ section h3 {
 
 section a:link {
  color: black; 
- font-weight: 400;
+ font-weight: 500;
 }
 
 sectiona: visited {
-    color: grey;
+    color: #C7C7C7;
 }
 
 section a:hover {
