@@ -9,9 +9,7 @@ body {
  padding: 50px 0; 
 }
 
-header .container {
-   position: fixed;
-  top: 0;
+header {
   font-family: 'Helvetica', sans-serif;
   padding: 70px 0;
 }
