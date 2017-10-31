@@ -62,8 +62,8 @@ section a:link {
  font-weight: 500;
 }
 
-sectiona: visited {
-    color: black;
+section a: visited {
+    color: grey;
     font-weight: 500;
 }
 
