@@ -19,6 +19,11 @@ header .row {
   align-items: center;
 }
 
+.navbar-default {
+    background-color: white;
+    border-color: white;
+}
+
 .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
