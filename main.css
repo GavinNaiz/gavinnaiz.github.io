@@ -41,6 +41,7 @@ header .row {
 
 .main {
   margin-top: 50px;
+  margin-bottom: 50px
 }
 
 footer .row {
@@ -69,7 +70,6 @@ header a {
 } 
 
 section {
- margin-bottom: 65px
  padding: 50px; 
 }
 
