@@ -4,7 +4,7 @@ body {
   font-weight: 400;
 }
 
-header .container {
+main .container {
  min-height: 100%;
  padding: 50px 0; 
 }
