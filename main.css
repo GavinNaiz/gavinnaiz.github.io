@@ -28,7 +28,8 @@ header .row {
     top: 0;
     border-width: 0 0 1px;
     padding: 70px 0;
-    width: inherit;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .main {
