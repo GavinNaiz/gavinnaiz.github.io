@@ -22,6 +22,10 @@ header .row {
   align-items: center;
 }
 
+.main {
+  margin-top: 50px;
+}
+
 footer .row {
   display: flex;
   align-items: center;
@@ -48,7 +52,6 @@ header a {
 } 
 
 section {
- margin-top: 50px;
  padding: 50px; 
 }
 
