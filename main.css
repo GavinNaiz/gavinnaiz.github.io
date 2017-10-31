@@ -86,8 +86,8 @@ section h4 {
 }
 
 section a:link {
- color: black; 
- font-weight: 600;
+ color: #808000; 
+ font-weight: 400;
 }
 
 section a:visited {
