@@ -28,6 +28,7 @@ header .row {
 .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
+    padding: 70px 0;
 }
 
 .main {
