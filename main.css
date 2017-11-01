@@ -22,7 +22,13 @@ header .row {
 
 .navbar{
     max-width: 1200px;
+    min-height:30px;
     margin: 0 auto;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; padding-bottom:0 !important;
+    height: 30px;
 }
 
 .navbar-default {
@@ -38,11 +44,6 @@ header .row {
 
 .navbar-fixed-bottom {
    padding: 0px 0;
-}
-
-.navbar-nav > li > a, .navbar-brand {
-    padding-top:5px !important; padding-bottom:0 !important;
-    height: 30px;
 }
 
 .main {
