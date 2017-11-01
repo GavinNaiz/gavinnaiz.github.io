@@ -141,7 +141,7 @@ section a:visited {
 
 footer .col-sm-12 {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
 }
 
 footer ul {
