@@ -33,6 +33,7 @@ header .row {
 .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
+    max-height: 15px;
     padding: 50px 0;
 }
 
