@@ -33,11 +33,11 @@ header .row {
 .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
-    padding: 50px 0;
+    padding: 40px 0;
 }
 
 .navbar-fixed-bottom {
-   padding: 10px 0;
+   padding: 5px 0;
 }
 
 .main {
