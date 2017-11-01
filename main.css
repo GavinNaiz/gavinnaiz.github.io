@@ -40,6 +40,11 @@ header .row {
    padding: 0px 0;
 }
 
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; padding-bottom:0 !important;
+    height: 30px;
+}
+
 .main {
   margin-top: 40px;
   margin-bottom: 100px;
