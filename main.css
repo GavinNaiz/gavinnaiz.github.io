@@ -139,7 +139,7 @@ section a:visited {
     color: black;
 }
 
-footer .col-sm-8 {
+footer .col-sm-12 {
   display: flex;
   justify-content: flex-end;
 }
