@@ -46,6 +46,10 @@ header .row {
   min-height: 100%;
 }
 
+main { 
+  min-height: 100%;
+}
+
 footer .row {
   display: flex;
   align-items: center;
