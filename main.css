@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: "Open Sans", "Lucida Console", "Lucida Grande", sans-serif; 
   font-size: 3em;
   font-weight: 400;
   line-height: 2;
@@ -137,7 +137,7 @@ section .row img {
 }
 
 footer {
-  font-family: "Futura", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: "Lucida Console", "Lucida Grande", sans-serif; 
   font-size: 1em;
   font-weight: 400;
   padding: 0px 0;
