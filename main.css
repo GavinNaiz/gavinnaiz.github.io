@@ -37,8 +37,9 @@ header .row {
 }
 
 .navbar-fixed-bottom {
-    padding: 0px 0;
-    border-width: 0 0 1px;;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
 
 .navbar-brand {
