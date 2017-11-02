@@ -94,6 +94,7 @@ header a {
 
 header a:hover {
     color: #660099;
+    text-decoration: none;
 }
 
 section {
@@ -160,6 +161,7 @@ footer a:visited {
 
 footer a:hover {
     color: #660099;
+    text-decoration: none;
 }
 
 footer .col-sm-12 {
