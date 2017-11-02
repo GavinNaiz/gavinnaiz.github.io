@@ -1,5 +1,5 @@
 body {
-  font-family: 'Courier New', serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-size: 3em;
   font-weight: 400;
 }
@@ -77,7 +77,7 @@ header h1 {
 }
 
 header nav {
-  font-family: 'Helvetica', sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   display: flex;
   justify-content: flex-end;
 }
