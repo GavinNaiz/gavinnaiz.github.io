@@ -19,11 +19,6 @@ header {
   padding: 70px 0;
 }
 
-footer .col-sm-7 {
-  display: flex;
-  justify-content: flex-end;
-}
-
 header .row {
   display: flex;
   align-items: center;
@@ -42,7 +37,7 @@ header .row {
 
 .navbar-fixed-top {
     top: 0;
-    border-width: 0 0 1px;
+    border-width: 0px;
     padding: 50px 0;
 }
 
