@@ -140,10 +140,6 @@ section .row img {
   margin: 0 0 30px;
 }
 
-.col-sm-12 {
-  padding: 50px;
-}
-
 footer a {
   color: #808000;  
 }
@@ -158,6 +154,7 @@ footer a:hover {
 }
 
 footer .col-sm-12 {
+  padding: 50px;
   display: flex;
   justify-content: space-around;
 }
