@@ -163,8 +163,3 @@ footer a:hover {
     color: #660099;
     text-decoration: none;
 }
-
-footer .col-sm-12 {
-  display: flex;
-  justify-content: space-around;
-}
