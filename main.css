@@ -92,6 +92,10 @@ header a {
   color: black;
 } 
 
+header a:hover {
+    color: #660099;
+}
+
 section {
  padding: 100px; 
 }
@@ -151,6 +155,10 @@ footer a {
 
 footer a:visited {
  color: black; 
+}
+
+footer a:hover {
+    color: #660099;
 }
 
 footer .col-sm-12 {
