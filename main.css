@@ -127,6 +127,7 @@ section a:visited {
 section a:hover {
     color: #660099;
     font-weight: 600;
+    text-decoration: none;
 }
 
 section .row img {
