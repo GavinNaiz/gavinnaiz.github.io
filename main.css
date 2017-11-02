@@ -24,11 +24,6 @@ header .row {
   align-items: center;
 }
 
-header .col-sm-12 {
-  display: flex;
-  justify-content: space-between;
-}
-
 .navbar{
     max-width: 1200px;
     min-height:32px !important;
