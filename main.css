@@ -22,6 +22,7 @@ header .row {
 
 .navbar{
     max-width: 1200px;
+    min-height:32px !important;
     margin: 0 auto;
 }
 
@@ -37,14 +38,18 @@ header .row {
 }
 
 .navbar-fixed-bottom {
-    margin: 5px green;
-    padding: 5px pink;
-    border: 5px blue;
+    padding: 0px;
+}
+
+.navbar-nav > li > a {
+  padding-top: 0px !important; 
+  padding-bottom:0px !important;
 }
 
 .navbar-brand {
   height: 0px;
   max-height: 0px;
+  padding: 0px !important;
 }
 
 .main {
