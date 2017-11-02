@@ -154,7 +154,6 @@ footer a:hover {
 }
 
 footer .col-sm-12 {
-  padding: 50px;
   display: flex;
   justify-content: space-around;
 }
