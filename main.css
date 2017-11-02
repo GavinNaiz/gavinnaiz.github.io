@@ -41,7 +41,8 @@ header .row {
 }
 
 .navbar-brand {
-  height: 0px; 
+  height: 0px;
+  max-height: 0px;
 }
 
 .main {
