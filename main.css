@@ -116,7 +116,7 @@ section a:link {
 }
 
 section a:visited {
-    color: grey;
+    color: black;
     font-weight: 400;
 }
 
@@ -149,8 +149,8 @@ footer a {
   color: #808000;  
 }
 
-section a:visited {
-    color: black;
+footer a:visited {
+ color: black; 
 }
 
 footer .col-sm-12 {
