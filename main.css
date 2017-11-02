@@ -38,6 +38,7 @@ header .row {
 
 .navbar-fixed-bottom {
     padding: 0px 0;
+    max-height: 30px!important;
 }
 
 .navbar-brand {
