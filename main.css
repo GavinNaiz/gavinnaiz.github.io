@@ -105,6 +105,11 @@ section h1 {
  text-align: center;
 }
 
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
 section h2 {
 }
 
