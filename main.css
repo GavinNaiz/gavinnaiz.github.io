@@ -75,7 +75,6 @@ footer .row {
 
 header h1 {
   font-weight: 700;
-  padding: 30px;
 }
 
 header nav {
@@ -101,6 +100,7 @@ section {
 }
 
 section h1 {
+ padding: 50px;
  text-align: center; 
 }
 
