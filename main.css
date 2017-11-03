@@ -130,7 +130,7 @@ img {
 	z-index: 99;
 	position: fixed;
 	bottom: 200px;
-	background: url("bottom-fade.png") bottom center no-repeat;
+	background: url("images/bottom-fade.png") bottom center no-repeat;
 }
 
 footer a {
