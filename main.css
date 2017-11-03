@@ -120,6 +120,10 @@ section a:hover {
     text-decoration: none;
 }
 
+img {
+ padding-top: 10px; 
+}
+
 footer a {
   color: #808000;  
 }
