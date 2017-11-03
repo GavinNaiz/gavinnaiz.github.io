@@ -70,6 +70,8 @@ footer .row {
 
 header h1 {
   font-weight: 700;
+  display: flex;
+  justify-content: flex-start;
 }
 
 header nav {
