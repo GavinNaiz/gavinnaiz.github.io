@@ -129,7 +129,7 @@ img {
 	height: 200px;
 	z-index: 99;
 	position: fixed;
-	bottom: 0px;
+	bottom: 200px;
 	background: url("bottom-fade.png") bottom center no-repeat;
 }
 
