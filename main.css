@@ -124,6 +124,15 @@ img {
  padding-top: 20px; 
 }
 
+#bottom_fade {
+	width: 600px;
+	height: 200px;
+	z-index: 99;
+	position: fixed;
+	bottom: 0px;
+	background: url("bottom-fade.png") bottom center no-repeat;
+}
+
 footer a {
   color: #808000;  
 }
