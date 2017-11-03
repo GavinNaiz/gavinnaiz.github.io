@@ -21,11 +21,6 @@ header {
   padding: 65px 0;
 }
 
-header .row {
-  display: flex;
-  align-items: center;
-}
-
 .navbar{
     max-width: 1200px;
     min-height:32px !important;
