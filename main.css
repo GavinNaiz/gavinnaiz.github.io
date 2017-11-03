@@ -112,17 +112,17 @@ section .row img {
 
 section a:link {
  color: #808000; 
- font-weight: 300;
+ font-weight: 400;
 }
 
 section a:visited {
-    color: black;
-    font-weight: 300;
+    color: grey;
+    font-weight: 400;
 }
 
 section a:hover {
     color: #660099;
-    font-weight: 300;
+    font-weight: 400;
     text-decoration: none;
 }
 
