@@ -101,6 +101,7 @@ section h1 {
 }
 
 section .row img {
+  padding-top: 20px; 
   margin: 0 0 30px;
   width: 100%;
 }
@@ -119,10 +120,6 @@ section a:hover {
     color: #660099;
     font-weight: 400;
     text-decoration: none;
-}
-
-img {
- padding-top: 20px; 
 }
 
 footer a {
