@@ -122,6 +122,13 @@ section a:hover {
     text-decoration: none;
 }
 
+#ACL16 {
+    width: 100%;
+}
+#ACL16:hover {
+    width: 150%;
+}
+
 footer a {
   color: #808000;  
 }
