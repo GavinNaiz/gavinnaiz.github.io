@@ -122,12 +122,15 @@ section a:hover {
     text-decoration: none;
 }
 
-#ACL16 {
-    width: 5%;
-}
-#ACL16:hover {
-    width: 50%;
-}
+.fadeout {
+    position: relative; 
+    bottom: 4em;
+    height: 4em;
+    background: -webkit-linear-gradient(
+        rgba(255, 255, 255, 0) 0%,
+        rgba(255, 255, 255, 1) 100%
+    ); 
+} 
 
 footer a {
   color: #808000;  
